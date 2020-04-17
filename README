@@ -1,0 +1,5 @@
+This is Single Linkedlist program 
+
+It has functions like Create,Display,Search,Insert,Delete,Reverse and Middle node.
+
+I have implemented core concepts and but not included simple checks like if start is NULL or not so on ... 
