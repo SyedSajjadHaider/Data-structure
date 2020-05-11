@@ -61,4 +61,7 @@ free(temp);
 
 void check(){
 
+ if(start == NULL){
+   printf("Stack is Empty");
+ }
 }
